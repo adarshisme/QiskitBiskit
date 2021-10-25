@@ -6,6 +6,6 @@ We simulate the coin protocol for detecting whether a coin is fair or not, and a
 
 Pranav Eswaran
 Varun Nayak
-Adarash Hullahalli 
+Adarsh Hullahalli 
 Tejas Saboo
 Ayush Bhattacharya
